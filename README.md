@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeobinLee&fontSize=90&animation=fadeIn&fontAlignY=38)
+
+
 [![borb's github stats](https://github-readme-stats.vercel.app/api?username=borb-choi)](https://github.com/borb-choi/github-readme-stats)
 
 <!--
