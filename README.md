@@ -3,8 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=borb-choi&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" height="500" />
-<!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="500" /> -->
+<img src="./profile-3d-contrib/profile-gitblock.svg" height="400" />
+<!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="400" /> -->
 
 
 <!--
