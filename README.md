@@ -2,7 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=borb-choi&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" height="200" />
+
 
 <!--
 **BORB-CHOI/BORB-CHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
