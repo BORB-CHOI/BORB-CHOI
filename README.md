@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&section=header&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=1)
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&section=header&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=16)
 
 
 [![borb's github stats](https://github-readme-stats.vercel.app/api?username=borb-choi)](https://github.com/borb-choi/github-readme-stats)
