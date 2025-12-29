@@ -17,6 +17,7 @@
 - 원스토어 배포 (현재 서버 종료)
 
 🔗 Repo: [링크](https://github.com/2025-2-2-6)
+🔗 Notion: [링크](https://www.notion.so/6-2aff1fecd5bc801bbba9c5d18b34525e?source=copy_link)
 
 
 <!--
