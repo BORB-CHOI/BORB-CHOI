@@ -14,10 +14,9 @@
 
 - Android / Backend 팀 프로젝트
 - Google 로그인, 자동 크롤링, 알림, 캘린더 기능 구현
-- 실제 배포 및 운영 경험 (현재 서버 종료)
+- 원스토어 배포 (현재 서버 종료)
 
-🔗 Android Repo: 링크  
-🔗 Backend Repo: 링크
+🔗 Repo: [링크](https://github.com/2025-2-2-6)
 
 
 <!--
