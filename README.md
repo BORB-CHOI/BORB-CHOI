@@ -20,3 +20,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👋 Backend-oriented Student Developer
+
+학부 과정 중 팀 프로젝트와 동아리 활동을 통해  
+백엔드 개발 및 협업 경험을 쌓고 있습니다.
+
+---
+
+## 🏫 Team & Organization Activities
+
+### OOOO
+- 기간: 2025.09 – 2025.12
+- 역할: Backend (팀 조율 일부 담당)
+- 비고: 학습 목적의 팀 프로젝트
+
+🔗 https://github.com/ORG_NAME
+
+---
+
+### OOOO
+- 기간: 2025
+- 역할: Backend
+- 비고: Spring Boot 기초 학습 후 진행
+
+🔗 https://github.com/ORG_NAME/REPO_NAME
+
+---
