@@ -1,15 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=13&fontAlignY=38)
-
-
 <!-- <img src="./profile-3d-contrib/profile-gitblock.svg" height="350" /> -->
 <!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="350" /> -->
 
+# 👋 Web-oriented Student Developer
 
-
-## 👋 Backend-oriented Student Developer
-
-학부 과정 중 팀 프로젝트와 동아리 활동을 통해  
-백엔드 개발 및 협업 경험을 쌓고 있습니다.
+웹 관련 개발 및 협업 경험을 쌓고 있습니다.
 
 ---
 
