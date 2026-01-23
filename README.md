@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=13&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=200&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=13&fontAlignY=38)
 <!-- <img src="./profile-3d-contrib/profile-gitblock.svg" height="350" /> -->
 <!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="350" /> -->
-
 # 👋 Web-oriented Student Developer
 
 웹 관련 개발 및 협업 경험을 쌓고 있습니다.
