@@ -15,7 +15,7 @@
 - 비고: 빅데이터 분석 학회 D&A | 인공지능 학회 X:AI | 웹 학술 동아리 WINK 공동 컨퍼런스 프로젝트
 - 사용 기술 : Spring Boot
 
-🔗 [https://github.com/ORG_NAME/REPO_NAME](https://github.com/D-X-W-Beautiq)
+🔗 [https://github.com/D-X-W-Beautiq](https://github.com/D-X-W-Beautiq)
 
 ---
 
