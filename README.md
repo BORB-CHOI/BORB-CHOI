@@ -7,26 +7,27 @@
 
 ---
 
-## 🏫 Team & Organization Activities
+##  Activities
 
-### OOOO
-- 기간: 2025.09 – 2025.12
-- 역할: Backend (팀 조율 일부 담당)
-- 비고: 학습 목적의 팀 프로젝트
+### Beautiq - AI 피부 분석 및 메이크업 시뮬레이션과 커스텀 서비스
+- 기간: 2025.06 – 2025.11
+- 역할: 서비스 2팀 Backend 파트장
+- 비고: 빅데이터 분석 학회 D&A | 인공지능 학회 X:AI | 웹 학술 동아리 WINK 공동 컨퍼런스 프로젝트
+- 사용 기술 : Spring Boot
 
-🔗 https://github.com/ORG_NAME
-
----
-
-### OOOO
-- 기간: 2025
-- 역할: Backend
-- 비고: Spring Boot 기초 학습 후 진행
-
-🔗 https://github.com/ORG_NAME/REPO_NAME
+🔗 [https://github.com/ORG_NAME/REPO_NAME](https://github.com/D-X-W-Beautiq)
 
 ---
 
+### Crawlimmer - 크롤링 사이트 등록 및 갱신 알림 관리 앱
+- 기간: 2025.06 – 2025.11
+- 역할: Frontend + Backend
+- 비고: 정규 교과목 '모바일 프로그래밍' 수업, 수업 요구사항으로 팀 전원 프론트엔드 참여
+- 사용 기술 : Android Studio(Java), FastAPI
+  
+🔗 [https://github.com/2025-2-2-6](https://github.com/2025-2-2-6)
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=borb-choi&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
