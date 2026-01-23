@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=13&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=Borb&fontSize=90&animation=fadeIn&color=gradient&customColorList=13&fontAlignY=38)
 <!-- <img src="./profile-3d-contrib/profile-gitblock.svg" height="350" /> -->
 <!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="350" /> -->
 
