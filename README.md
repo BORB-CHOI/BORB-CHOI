@@ -6,6 +6,16 @@
 웹 관련 개발 및 협업 경험을 쌓고 있습니다.
 
 ---
+##  Hobbies
+
+### ATS - 주식 리서치 프로젝트
+- 기간: 2026.01 ~ 
+- 비고: 개인 국내 주식 매매 리서치 프로그램
+- 사용 기술 : Javascript, Python
+
+🔗 [https://github.com/BORB-CHOI/algo-trading-research-system](https://github.com/BORB-CHOI/algo-trading-research-system)
+
+---
 
 ##  Activities
 
