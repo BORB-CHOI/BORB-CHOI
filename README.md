@@ -29,6 +29,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=borb-choi&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
 
