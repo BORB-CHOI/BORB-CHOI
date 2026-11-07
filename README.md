@@ -17,9 +17,16 @@
 
 ---
 
-##  Activities
+### DayMeet.org - UX 경험에 몰입한 일정 조율 서비스
+- 기간: 2026.4 ~
+- 비고: [https://daymeet.org](https://daymeet.org)
+- 사용 기술 : Next.js, Vercel, Supabase
+  
+🔗 [https://github.com/BORB-CHOI/whenmeets](https://github.com/BORB-CHOI/whenmeets)
 
 ---
+
+##  Activities
 
 ### Clinic Focus - 표준진료과목 외 특정 병원의 주 진료 과목을 찾는 서비스
 - 기간: 2026.5 – 2026.6
@@ -28,16 +35,6 @@
 - 사용 기술 : FastAPI(Python), AWS Bedrock Titan V2, S3, DynamoDB, EC2
   
 🔗 [https://github.com/BORB-CHOI/clinic-focus](https://github.com/BORB-CHOI/clinic-focus)
-
----
-
-### Beautiq - AI 피부 분석 및 메이크업 시뮬레이션 서비스
-- 기간: 2025.06 – 2025.11
-- 역할: 서비스 2팀 Backend 파트장
-- 비고: 빅데이터 분석 학회 D&A | 인공지능 학회 X:AI | 웹 학술 동아리 WINK 공동 컨퍼런스 프로젝트
-- 사용 기술 : Spring Boot(Java)
-
-🔗 [https://github.com/D-X-W-Beautiq](https://github.com/D-X-W-Beautiq)
 
 ---
 
