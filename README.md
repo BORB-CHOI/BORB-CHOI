@@ -19,6 +19,18 @@
 
 ##  Activities
 
+---
+
+### Clinic Focus - 표준진료과목 외 특정 병원의 주 진료 과목을 찾는 서비스
+- 기간: 2026.5 – 2026.6
+- 역할: Backend + AWS
+- 비고: 정규 교과목 'AWS 실전프로젝트'수업 내 프로젝트 활동
+- 사용 기술 : FastAPI(Python), AWS Bedrock Titan V2, S3, DynamoDB, EC2
+  
+🔗 [https://github.com/BORB-CHOI/clinic-focus](https://github.com/BORB-CHOI/clinic-focus)
+
+---
+
 ### Beautiq - AI 피부 분석 및 메이크업 시뮬레이션 서비스
 - 기간: 2025.06 – 2025.11
 - 역할: 서비스 2팀 Backend 파트장
@@ -38,5 +50,6 @@
 🔗 [https://github.com/2025-2-2-6](https://github.com/2025-2-2-6)
 
 ---
+
 
 
